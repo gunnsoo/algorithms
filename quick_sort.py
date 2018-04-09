@@ -1,4 +1,5 @@
 # O(n * log n)
+# 選択ソートはO(n^2)
 
 def quick_sort(arr):
     if len(arr) < 2:
